@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @duc6502
-- 👀 I’m interested in 6502 uP and its peripheas. Particularly in AIM-65 microcomputer.
+- 👀 I’m interested in the 6502 uP and its compatible peripherals. Particularly I'm working about the AIM-65 microcomputer.
 - 🌱 I’m currently learning about Verilog on Proteus hardware simulator.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
